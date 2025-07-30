@@ -19,3 +19,13 @@ This is a simple Python-based student grade management system that allows:
 
 This is a beginner-level CRUD project. Built as part of hands-on Python learning.
 
+---
+
+**How to Run**
+
+1. Make sure you have **Python 3.x** installed.
+2. Download or clone this repository:
+   ```bash
+   git clone https://github.com/Mohamed5Ashraf/your-repo-name.git
+
+
